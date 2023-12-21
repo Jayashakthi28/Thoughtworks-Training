@@ -11,3 +11,5 @@ bin/
 build/
 gradlew*
 gradle/
+node_modules/
+
