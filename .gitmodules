@@ -1,0 +1,6 @@
+[submodule "teach-me-java-conventions"]
+	path = teach-me-java-conventions
+	url = git@github.com:Jayashakthi28/teach-me-java-conventions.git
+[submodule "exercism"]
+	path = exercism
+	url = git@github.com:Jayashakthi28/exercism.git
